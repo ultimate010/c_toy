@@ -1,0 +1,8 @@
+int var0 = 0;
+int var1 = 8;
+int var2 =  2321;
+if(var0<var1){
+  printf("This is in abc\n");
+}else{
+  printf("This is in bcd\n");
+}
